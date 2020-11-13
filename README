@@ -1,5 +1,13 @@
 Events Planner (Arhitectura 3-tier)
 
+Tehnologii si tool-uri folosite:
+-Java
+-Maven
+-JPA
+-RMI
+-Java Swing
+-MySQL
+
 *Aplicatia permite inregistrarea/autentificare unui utilizator
 *Orice utilizator poate sa:
 -vizualizeze lista proprilor evenimente si lista cu evenimentele tuturor utilizatorilor in ordine cronologica
